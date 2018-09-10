@@ -1,0 +1,19 @@
+{
+  "name": "bin-merge-file",
+  "version": "1.0.0",
+  "description": "node.js 合并文件插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webMasterMrBin/bin-merge-file.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webMasterMrBin/bin-merge-file/issues"
+  },
+  "homepage": "https://github.com/webMasterMrBin/bin-merge-file#readme"
+}
